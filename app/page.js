@@ -12,6 +12,12 @@ export default function Home() {
         fill={true}
         alt="background"
       />
+       <div className={styles.sliderContainer}>
+        <div className={styles.slider}>
+          <p >Milind Palaria -</p>
+          <p >Milind Palaria -</p>
+        </div>
+      </div>
     </main>
   )
 }
